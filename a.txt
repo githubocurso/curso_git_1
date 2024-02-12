@@ -3,3 +3,5 @@ git add
 git push
 
 git remote remove origin 
+
+crinando coisas para testas o git stash
